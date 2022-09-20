@@ -40,8 +40,6 @@
 
 *В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.*
 
-file:///C:/Users/2020/Desktop/01nmap.txt
-
 ------
 
 ### Задание 2.
@@ -68,7 +66,3 @@ file:///C:/Users/2020/Desktop/01nmap.txt
 
 
 *В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат*
-
-file:///C:/Users/2020/Desktop/02_hydra_start.txt
-
-file:///C:/Users/2020/Desktop/fail2ban.log
